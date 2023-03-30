@@ -17,11 +17,30 @@
 //var  Number2 =+ prompt("Enter the Second Number")
 //var  Number3 =+ prompt("Enter the Third Number")
 //if( Number1 > Number2 && Number1 > Number3){
-  //  console.log(  "First Number is maximum")
+//  console.log(  "First Number is maximum")
 //}
 //else if( Number3 > Number1 && Number3 > Number2){
-  //  console.log(  "Third Number is Maximum")
+//  console.log(  "Third Number is Maximum")
 //}
 //else{ console.log(  "Second Number is Maximum")}
 
 //------------------------------------------------------------------------------//
+
+//3. Write a js program to check whether a number is negative, positive or zero.
+
+//var Weather_temperature = + prompt("Enter the Temperature in Number")
+//if (Weather_temperature <= 3){
+//    console.log("The Temperature is cold")
+//}
+//else if (Weather_temperature <= 10){
+//   console.log("The Temperature is cold")
+//}
+//else if (Weather_temperature <= 24){
+//    console.log("The Temperature is Normal")
+//}
+//else if (Weather_temperature <= 40){
+//    console.log("The Temperature is hot")
+//}
+// if (Weather_temperature >= 40){
+//    console.log("The Temperature is very hot")
+//}
