@@ -72,3 +72,12 @@
 //    console.log("number is odd")
 //}
 //----------------------------------------------------------------------------//
+
+//6. Write a js program to check whether a year is leap year or not.
+var LeapYearOrNot =+ prompt("Enter the Year Number to check whether a year is leap year or not.")
+if (LeapYearOrNot %4==0){
+    console.log( "whether a year is leap year ")
+}
+else{
+    console.log("whether a year is  not leap year ")
+}
