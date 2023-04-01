@@ -46,16 +46,29 @@
 //}
 //--------------------------------------------------------------------------------------------//
 
-//4. Write a js program to check whether
-// a number is divisible by 5 and 11 or not.
+//4. Write a js program to check whether a number is divisible by 5 and 11 or not.
 
-var weather_number =+ prompt( "Enter temperature")
-if( weather_number %5==0){
-    console.log("Number is divided by 5" )
-}
-else if ( weather_number %11==0){
-    console.log("Number is divided by 11")
-}
-else{
-    console.log(" Number is  not divided by 5 or 11")
-}
+//var weather_number =+ prompt( "Enter temperature")
+//if( weather_number %5==0){
+//    console.log("Number is divided by 5" )
+//}
+//else if ( weather_number %11==0){
+//    console.log("Number is divided by 11")
+//}
+//else{
+//    console.log(" Number is  not divided by 5 or 11")
+//}
+
+
+//--------------------------------------------------------------------------------------//
+
+//5. Write a js program to check whether a number is even or odd.
+
+//var weather_number =+ prompt("Enter temperature")
+//if(weather_number %2==0){
+//    console.log( "Number is even")
+//}
+//else {
+//    console.log("number is odd")
+//}
+//----------------------------------------------------------------------------//
